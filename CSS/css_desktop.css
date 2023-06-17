@@ -1,0 +1,35 @@
+body {
+    margin-right: 0px;
+}
+
+#banner, #contact-bar {
+    background-color: rgb(188, 146, 90);
+}
+
+#banner h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 10ch;
+}
+
+p, li {
+    font-size: 2.5ch;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+    margin-bottom: 80px;
+}
+
+#contact-bar ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contact-bar ul #title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
